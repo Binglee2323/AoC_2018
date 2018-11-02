@@ -1,2 +1,2 @@
 # AoC_2018
-Advent of Code 2018
+Placeholder repo for AoC 2018
